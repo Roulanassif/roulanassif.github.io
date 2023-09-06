@@ -15,7 +15,7 @@ __*Funding agency:*__ Agence nationale de la recherche (ANR) - Jeunes Chercheuse
 
 __*Starting date:*__ March 1, 2023
 
-__*Duration:*__ 42 months
+__*Duration:*__ 48 months
 
 __*Future opportunities*:__ To complete the project, the following research positions will be available: 
   
