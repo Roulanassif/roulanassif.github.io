@@ -4,7 +4,7 @@ title:"Research project and open positions"
 ---
 
   
-#### *CEDRO (Communication-Efficient Decentralized, Adaptive and Reliable Optimization over Multitask Graphs):*
+#### 1- *CEDRO (Communication-Efficient Decentralized, Adaptive and Reliable Optimization over Multitask Graphs):*
 
 
 CEDRO focuses on decentralized inference (stochastic optimization and learning) over graphs. The project recognizes that, in recent years, engineering systems are witnessing an increasing ability to collect data in decentralized and streamed manner. The focus will be on designing decentralized approaches where devices are collecting data in a continuous manner. The project also recognizes that modern machine learning applications (where large volumes of training data are generated continuously by a massive number of heterogeneous devices) have several key properties that differentiate them from standard distributed inference applications. Particular focus will be given to developing and studying approaches for decentralized learning in statistical heterogeneous (multitask) settings in the presence of limited communication resources and heterogeneous system devices. The project emphasis will specifically be on illustrating the interest of the proposed approaches in machine learning frameworks using publicly available datasets.
@@ -31,4 +31,18 @@ To see what we are doing, you can check out the list of publications on my websi
 You can also check the following tutorial paper for a general overview:
 
 R. Nassif, S. Vlaski, C. Richard, J. Chen, and A. H. Sayed, “Multitask Learning over Graphs: An Approach for Distributed, Streaming Machine Learning,” *IEEE Signal Processing Magazine*, vol. 37, no. 3, pp. 14-25, May 2020.[[arXiv]](https://arxiv.org/abs/2001.02112)
+
+#### 2- *ODER (Optimisation Décentralisée Efficace avec des Représentations de faible précision):*
+
+__*Funding agency:*__ Académie Systèmes Complexes, Junior Booster 2024, Université Côte d'Azur
+
+__*Starting date:*__ September 1, 2024
+
+__*Duration:*__ 15 months
+
+__*Future opportunities*:__ To complete the project, the following research position will be available: 
+  
+* Internship position for a master student
+
+If you are interested in topics related to machine learning, signal processing, stochastic optimization, decentralized processing, and data sciences, and you are keen to join our group at the I3S Laboratory in Nice, please contact me by sending your resume with copies of your academic transcripts.
 
