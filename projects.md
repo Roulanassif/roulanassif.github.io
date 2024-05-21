@@ -40,7 +40,7 @@ __*Starting date:*__ September 1, 2024
 
 __*Duration:*__ 15 months
 
-__*Future opportunities*:__ To complete the project, the following research position will be available: 
+__*Future opportunity*:__ To complete the project, the following research position will be available: 
   
 * Internship position for a master student
 
