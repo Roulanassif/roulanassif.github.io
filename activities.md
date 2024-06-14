@@ -3,7 +3,11 @@ layout: page
 title:"Activities"
 ---
 
-  
+#### *Seminars and presentations (with available recordings):*
+
+__*IEEE Signal Processing Society Webinar (Feb. 8, 2023):*__ Decentralized learning over multitask graphs [[link]](https://www.youtube.com/watch?v=w_Gml2uA0yk)
+
+
 #### *Community service:*
 
 __*I3S Laboratory:*__ Elected member of the direction committee (2023-Present) [[link]](https://www.i3s.unice.fr/en/research-areas/sis)
