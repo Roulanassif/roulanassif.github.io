@@ -12,7 +12,7 @@ title:"Publications"
 
 <h1> Submitted for publication (1): </h1> 
 
- 1. <p style='text-align: justify;'> R. Nassif, S. Vlaski, M. Carpentiero, V. Matta, and A. H. Sayed, "Differential error feedback for communication-efficient decentralized learning," <i>Submitted for publication</i>, June 2023. <a href="https://arxiv.org/abs/2209.07821">[arXiv]</a></p>
+ 1. <p style='text-align: justify;'> R. Nassif, S. Vlaski, M. Carpentiero, V. Matta, and A. H. Sayed, "Differential error feedback for communication-efficient decentralized learning," <i>Submitted for publication</i>, June 2023. <a href="https://arxiv.org/pdf/2406.18418v1">[arXiv]</a></p>
 
 <h1> Journal publications (12): </h1>
 
