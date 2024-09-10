@@ -30,7 +30,7 @@ title:"Publications"
 12. <p style='text-align: justify;'> R. Nassif, C. Richard, A. Ferrari, and A. H. Sayed, "Multitask diffusion adaptation over asynchronous networks," <i>IEEE Transactions on Signal Processing</i>, vol. 64, no. 11, pp. 2835-2850, Jun. 2016.<a href="https://arxiv.org/pdf/1412.1798.pdf">[arXiv]</a> </p>
 
  
-<h1> Inproceedings (28): </h1>
+<h1> Inproceedings (29): </h1>
 
 1. <p style='text-align: justify;'> R. Nassif, M. Carpentiero, S. Vlaski, V. Matta, and A. H. Sayed, "Matching centralized learning performance via compressed decentralized learning with error feedback," <i>Proc. IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)</i>, Lucca, Italy, Sep. 2024.
 2. <p style='text-align: justify;'> S. Vlaski and R. Nassif, "Nonconvex Multitask Learning over Networks," <i>Proc. European Signal Processing Conference (EUSIPCO)</i>, Lyon, France, Aug. 2024.
