@@ -10,7 +10,7 @@ __*IEEE Signal Processing Society Webinar (Feb. 8, 2023):*__ Decentralized learn
 
 #### *Community service:*
 
-__*IEEE Statistical Signal Processing (SSP) Workshop:*__ Plenary Session Co-chair [[link]](https://2025.ieeessp.org/)
+__*IEEE Statistical Signal Processing (SSP) Workshop (2025):*__ Plenary Session Co-chair [[link]](https://2025.ieeessp.org/)
 
 __*I3S Laboratory:*__ Elected member of the direction committee (2023-Present) [[link]](https://www.i3s.unice.fr/en/research-areas/sis)
 
