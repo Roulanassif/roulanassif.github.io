@@ -21,4 +21,6 @@ __*EURASIP TMTSP Technical Area Committee:*__ Elected member of the "Theoretical
 
 #### *Editorial activity:*
 
+
+__*Associate Editor:*__ IEEE Signal Processing Magazine (SPM) Columns and Forum (C&F) (2025-Present).
 __*Handling Editor:*__ Signal Processing Journal, EURASIP (2024-Present).
