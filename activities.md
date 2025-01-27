@@ -9,7 +9,7 @@ __*IEEE Signal Processing Society Webinar (Feb. 8, 2023):*__ Decentralized learn
 
 #### *Community interviews:*
 
-You can find my interview in the IEEE Inside Signal Processing Newsletter (January 2025 issue) at the following link: [[link]](https://signalprocessingsociety.org/newsletter/2025/01/member-highlight-dr-roula-nassif). [[linkedin]](https://www.linkedin.com/feed/update/urn:li:activity:7288271293282426881/)
+You can find my interview in the IEEE Inside Signal Processing Newsletter (January 2025 issue) at the following link: [[link]](https://signalprocessingsociety.org/newsletter/2025/01/member-highlight-dr-roula-nassif), [[linkedin]](https://www.linkedin.com/feed/update/urn:li:activity:7288271293282426881/)
 
 
 #### *Community service:*
