@@ -8,7 +8,7 @@ title:"Publications"
 </p>
  
 <!--- <h1> Submitted for publication (1): </h1> 
- 1. <p style='text-align: justify;'> R. Nassif, S. Vlaski, M. Carpentiero, V. Matta, M. Antonini, and A. H. Sayed, "Quantization for decentralized learning under subspace constraints," <i>Submitted for publication</i>, Sep. 2022. <a href="https://arxiv.org/abs/2209.07821">[arXiv]</a></p> -->
+1. <p style='text-align: justify;'> R. Nassif, S. Vlaski, M. Carpentiero, V. Matta, M. Antonini, and A. H. Sayed, "Quantization for decentralized learning under subspace constraints," <i>Submitted for publication</i>, Sep. 2022. <a href="https://arxiv.org/abs/2209.07821">[arXiv]</a></p> -->
 
 <h1> Journal publications (14): </h1>
 
