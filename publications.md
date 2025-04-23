@@ -10,10 +10,6 @@ title:"Publications"
 <!--- <h1> Submitted for publication (1): </h1> 
  1. <p style='text-align: justify;'> R. Nassif, S. Vlaski, M. Carpentiero, V. Matta, M. Antonini, and A. H. Sayed, "Quantization for decentralized learning under subspace constraints," <i>Submitted for publication</i>, Sep. 2022. <a href="https://arxiv.org/abs/2209.07821">[arXiv]</a></p> -->
 
-<h1> Submitted for publication ( ): </h1> 
-
-#1. <p style='text-align: justify;'> R. Nassif, S. Vlaski, M. Carpentiero, V. Matta, and A. H. Sayed, "Differential error feedback for communication-efficient decentralized learning," <i>Submitted for publication</i>, June 2024. <a href="https://arxiv.org/pdf/2406.18418v1">[arXiv]</a></p>
-
 <h1> Journal publications (14): </h1>
 
 1. <p style='text-align: justify;'> R. Nassif, S. Vlaski, M. Carpentiero, V. Matta, and A. H. Sayed, "Differential error feedback for communication-efficient decentralized learning," <i>IEEE Transactions on Signal Processing</i>, April 2025. <a href="https://arxiv.org/pdf/2406.18418v1">[arXiv]</a></p>
