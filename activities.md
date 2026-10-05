@@ -3,7 +3,7 @@ layout: page
 title:"Activities"
 ---
 
-#### *Seminars and presentations (some with available recordings):*
+## *Seminars and presentations (some with available recordings):*
 
 __*PKU Workshop on Optimization and Learning (June 3, 2026):*__ Communication-efficient decentralized learning [[link]](https://pku-spo-2026.github.io/)
 
@@ -12,12 +12,12 @@ __*ELLIIT distinguished lecture at ISY/Communication Systems, Linköping Univers
 __*IEEE Signal Processing Society Webinar (Feb. 8, 2023):*__ Decentralized learning over multitask graphs [[link]](https://www.youtube.com/watch?v=w_Gml2uA0yk) <br> <br>
 
 
-#### *Community interviews:*
+## *Community interviews:*
 
 You can find my interview in the IEEE Inside Signal Processing Newsletter (January 2025 issue) at the following link: [[link]](https://signalprocessingsociety.org/newsletter/2025/01/member-highlight-dr-roula-nassif), [[linkedin]](https://www.linkedin.com/feed/update/urn:li:activity:7288271293282426881/) <br><br>
 
 
-#### *Community service:*
+## *Community service:*
 
 __*Third-Year Program Coordinator - Electronics and Embedded Systems Engineering:*__ Polytech Nice Sophia, Université Côte d'Azur (2026-Present)
 
@@ -30,7 +30,7 @@ __*IEEE SPCOM Technical Committee:*__ Elected member of the "Signal Processing f
 __*EURASIP TMTSP Technical Area Committee:*__ Elected member of the "Theoretical and Methodological Trends in Signal Processing" Technical Area Committee of EURASIP (2024-Present) [[link]](https://eurasip.org/technical-area-committees/) <br><br>
 
 
-#### *Editorial activity:*
+## *Editorial activity:*
 
 __*Associate Editor:*__ IEEE Transactions on Signal Processing (TSP) (2026-Present).
 
