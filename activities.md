@@ -5,6 +5,8 @@ title:"Activities"
 
 #### *Seminars and presentations (with available recordings):*
 
+__*PKU Workshop on Optimization and Learning (June 3, 2026):*__ Communication-efficient decentralized learning [[link]](https://pku-spo-2026.github.io/)
+__*ELLIIT distinguished lecture at ISY/Communication Systems, Linköping University (January 27, 2026):*__ Communication-efficient decentralized learning [[link]](https://elliit.se/news-and-events/distinguished-lectures/)
 __*IEEE Signal Processing Society Webinar (Feb. 8, 2023):*__ Decentralized learning over multitask graphs [[link]](https://www.youtube.com/watch?v=w_Gml2uA0yk) <br> <br>
 
 
