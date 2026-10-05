@@ -14,11 +14,13 @@ I have taught the following courses at AUB:
 
 * <a href="https://www.aub.edu.lb/registrar/Documents/catalogue/undergraduate17-18/ece.pdf">EECE 694</a>: Digital Image Processing (Spring 2020/2021)
 
-I am currently teaching the following courses at UCA (Polytech Nice Sophia):
+I teach or have previously taught the following courses at UniCA (Polytech Nice Sophia):
 
-* Signals and Systems
+* Introduction to Machine Learning (2025-Present)
+  
+* Signals and Systems (2021-Present)
 
-* Digital Signal Processing
+* Digital Signal Processing (2021-Present)
 
-* Digital Image Processing
+* Digital Image Processing (2021-2024)
 
