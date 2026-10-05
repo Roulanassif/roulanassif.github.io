@@ -5,7 +5,7 @@ title:"Activities"
 
 #### *Seminars and presentations (with available recordings):*
 
-__*IEEE Signal Processing Society Webinar (Feb. 8, 2023):*__ Decentralized learning over multitask graphs [[link]](https://www.youtube.com/watch?v=w_Gml2uA0yk) <br>
+__*IEEE Signal Processing Society Webinar (Feb. 8, 2023):*__ Decentralized learning over multitask graphs [[link]](https://www.youtube.com/watch?v=w_Gml2uA0yk) <br> <br>
 
 
 
