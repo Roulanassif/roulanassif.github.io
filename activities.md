@@ -11,7 +11,7 @@ __*IEEE Signal Processing Society Webinar (Feb. 8, 2023):*__ Decentralized learn
 
 #### *Community interviews:*
 
-You can find my interview in the IEEE Inside Signal Processing Newsletter (January 2025 issue) at the following link: [[link]](https://signalprocessingsociety.org/newsletter/2025/01/member-highlight-dr-roula-nassif), [[linkedin]](https://www.linkedin.com/feed/update/urn:li:activity:7288271293282426881/)
+You can find my interview in the IEEE Inside Signal Processing Newsletter (January 2025 issue) at the following link: [[link]](https://signalprocessingsociety.org/newsletter/2025/01/member-highlight-dr-roula-nassif), [[linkedin]](https://www.linkedin.com/feed/update/urn:li:activity:7288271293282426881/) <br><br>
 
 
 #### *Community service:*
@@ -24,7 +24,7 @@ __*I3S Laboratory:*__ Elected member of the direction committee (2023-Present) [
 
 __*IEEE SPCOM Technical Committee:*__ Elected member of the "Signal Processing for Communications and Networking" Technical Committee of the IEEE Signal Processing Society (2023-Present) 
 
-__*EURASIP TMTSP Technical Area Committee:*__ Elected member of the "Theoretical and Methodological Trends in Signal Processing" Technical Area Committee of EURASIP (2024-Present) [[link]](https://eurasip.org/technical-area-committees/)
+__*EURASIP TMTSP Technical Area Committee:*__ Elected member of the "Theoretical and Methodological Trends in Signal Processing" Technical Area Committee of EURASIP (2024-Present) [[link]](https://eurasip.org/technical-area-committees/) <br><br>
 
 
 #### *Editorial activity:*
