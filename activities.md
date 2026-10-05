@@ -14,6 +14,8 @@ You can find my interview in the IEEE Inside Signal Processing Newsletter (Janua
 
 #### *Community service:*
 
+__*Third-Year Program Coordinator - Electronics and Embedded Systems Engineering:*__ Polytech Nice Sophia, Université Côte d'Azur (2026-Present)
+
 __*IEEE Statistical Signal Processing (SSP) Workshop (2025):*__ Plenary Session Co-chair [[link]](https://2025.ieeessp.org/)
 
 __*I3S Laboratory:*__ Elected member of the direction committee (2023-Present) [[link]](https://www.i3s.unice.fr/en/research-areas/sis)
