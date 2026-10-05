@@ -32,7 +32,7 @@ title:"Publications"
  
 <h1> Inproceedings (35): </h1>
 
-1. <p style='text-align: justify;'> Y. Zgheib, M. Antonini, and R. Nassif, "Continual learning under strong convexity: A soft average gradient episodic memory approach," <i>Proc. IEEE 34th European Signal Processing Conference (EUSIPCO)</i>,  Bruges, Belgium, Aug. 2026.
+1. <p style='text-align: justify;'> Y. Zgheib, M. Antonini, and R. Nassif, "Continual learning under strong convexity: A soft average gradient episodic memory approach," <i>Proc. IEEE 34th European Signal Processing Conference (EUSIPCO)</i>,  Bruges, Belgium, Aug. 2026.<a href="https://www.eurasip.org/Proceedings/Eusipco/Eusipco2026/pdfs/0002711.pdf">[pdf]</a></p>
 2. <p style='text-align: justify;'> Y. Zgheib, G. Faia Fagundes, M. Antonini, and R. Nassif, "Decentralized continual learning: A multi-objective minimization technique," <i>Proc. Asilomar Conference on Signals, Systems, and Computers</i>, Pacific Grove, CA, Oct. 2025.<a href="https://hal.science/file/index/docid/5778280/filename/Decentralized%20continual%20learning%20A%20Multi-objective%20Minimization%20technique.pdf">[pdf]</a></p>
 3. <p style='text-align: justify;'> G. Faia Fagundes, C. Richard, and R. Nassif, "A hypergraph-based Lasso regularization for distributed learning," <i>Proc. Asilomar Conference on Signals, Systems, and Computers</i>, Pacific Grove, CA, Oct. 2025.
 4. <p style='text-align: justify;'> Y. Zgheib, M. Antonini, and R. Nassif, "Sparsity-based regularization for learning over multitask graphs," <i>Proc. IEEE Statistical Signal Processing (SSP) Workshop</i>, Edinburgh, Great Britain, Jun. 2025.<a href="https://hal.science/hal-05227630v2/document">[pdf]</a></p>
