@@ -23,4 +23,5 @@ I teach or have previously taught the following courses at UniCA (Polytech Nice 
 * Digital Signal Processing (2021-Present)
 
 * Digital Image Processing (2021-2024)
+  
 
