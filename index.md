@@ -20,6 +20,7 @@ Since September 2021, I have been an Associate Professor (Maîtresse de Confé
 
 # *Interests:*
 * Decentralized inference, learning, and optimization
+* Distributed communication-efficient learning
 * Multitask learning
 * Graph signal processing
 * Adaptive filtering
