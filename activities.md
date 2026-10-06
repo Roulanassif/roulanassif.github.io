@@ -3,6 +3,7 @@ layout: page
 title:"Activities"
 ---
 
+<br>
 
 ## *Seminars and presentations (some with available recordings):*
 
