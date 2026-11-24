@@ -8,7 +8,7 @@ title:"Research team members"
 
 - __*Malak Khattar:*__ Decentralized optimization over graphs (November 1, 2026 - October 31, 2029), co-supervision with M. Antonini (CNRS).
 - __*Gustavo Faia Fagundes:*__ Decentralized machine learning (October 1, 2024 - September 30, 2027), co-supervision with C. Richard (UniCA).
-- __*Yara Zgheib:*__ Decentralized optimization over graphs (October 1, 2023 - September 30, 2026), co-supervision with M. Antonini (CNRS).
+- __*Yara Zgheib:*__ Decentralized multitask and continual learning (October 1, 2023 - September 30, 2026), co-supervision with M. Antonini (CNRS).
 
 #### *Former master students:*
 
